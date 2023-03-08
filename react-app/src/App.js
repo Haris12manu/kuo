@@ -41,7 +41,7 @@ function App() {
   return (
 
     <div className="App container">
-      <h1>Employees Infomation</h1>
+      <h1>Login</h1>
       <div className="information">
         <form action="">
           <div className="mb-3">
